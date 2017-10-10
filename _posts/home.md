@@ -7,3 +7,4 @@ categories: posts
 
 # Welcome to the loompy homepage!
 
+We have some [docs](/docs)
