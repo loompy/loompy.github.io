@@ -20,7 +20,7 @@ Key features:
 * Out-of-memory data processing
 * Open source, BSD license
 
-To get started, head over to the [docs](https://linnarssonlab.org/loompy)
+To get started, head over to the [docs](http://linnarssonlab.org/loompy)
 
 Source code is available at GitHub for [loompy](https://github.com/linnarsson-lab/loompy) and [loom-viewer](https://github.com/linnarsson-lab/loom-viewer).
 
