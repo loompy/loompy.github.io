@@ -22,4 +22,4 @@ Key features:
 
 To get started, head over to the [docs](/loompy-docs)
 
-Source code is available at GitHub for [loompy](https://github.com/linnarsson-lab/loompy) and [loom-viewer](https://github.com/linnarsson-lab/loom-viewer).
+Source code is available at GitHub for [loompy](https://linnarssonlab.org/loompy) and [loom-viewer](https://github.com/linnarsson-lab/loom-viewer).
