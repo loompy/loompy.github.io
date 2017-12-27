@@ -24,8 +24,7 @@ To get started, head over to the [docs](https://linnarssonlab.org/loompy)
 
 Source code is available at GitHub for [loompy](https://github.com/linnarsson-lab/loompy) and [loom-viewer](https://github.com/linnarsson-lab/loom-viewer).
 
-Other implementations 
-^^^^^^^^^^^^^^^^^^^^^
+### Other implementations 
 
 [LoomR](https://github.com/mojaveazure/loomR>) from Rahul Satija's lab implements loom for R
 
