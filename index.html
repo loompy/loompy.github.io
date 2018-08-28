@@ -1,0 +1,48 @@
+--- 
+layout: default 
+---
+<!-- Begin page content -->
+<main role="main" class="container">
+  <img src="/img/Loom_logo.png" width="280" , height="66">
+  <p>
+    <small>Current version: 2.0.12 (<a href="">release notes</a>).</small>
+  </p>
+  <p>
+    Loom is an efficient file format for large omics datasets. Loom files contain a main matrix, optional additional layers,
+    a variable number of row and column annotations, and sparse graph objects. Under the hood, Loom files are HDF5 and can
+    be opened from many programming languages, including Python, R, C, C++, Java, MATLAB, Mathematica, and Julia.
+  </p>
+  <p>
+    Key features:
+
+    <ul>
+      <li>Single file that can be moved around</li>
+      <li>Metadata travels with the main data</li>
+      <li>Data, clustering, layout, annotation stored together</li>
+      <li>Efficient random access</li>
+      <li>Automatic, on-the-fly compression</li>
+      <li>Out-of-memory data processing</li>
+      <li>Open source, BSD license</li>
+    </ul>
+  </p>
+  <div class="btn-group" role="group" aria-label="Basic example">
+    <a class="btn btn-primary btn-lg" href="http://linnarssonlab.org/loompy/installation/index.html" role="button">Installation</a>
+    <a class="btn btn-outline-primary btn-lg" href="http://linnarssonlab.org/loompy/index.html" role="button">Documentation</a>
+    <a class="btn btn-outline-primary btn-lg" href="https://github.com/linnarsson-lab/loompy" role="button">Source</a>
+    <a class="btn btn-outline-info btn-lg" href="https://github.com/mojaveazure/loomR" role="button" tabindex="0" data-toggle="popover" data-trigger="hover" 
+    title="LoomR from Rahul Satija's lab"
+    data-content="A complete implementation of Loom for R.">
+      <img src="/img/LoomR_logo.png" width="84" , height="22">
+    </a>
+  </div>
+  <hr class="my-4">
+  <h4>Additional resources</h4>
+  <p>
+    Many popular packages support Loom files out of the box, including
+    <a href="https://github.com/theislab/scanpy">scanpy</a>
+    from Fabian Theis lab,
+    <a href="https://github.com/aertslab/SCope">SCope</a> from Stein Aerts lab,
+    <a href="https://github.com/Bioconductor/LoomExperiment">LoomExperiment</a> from Bioconductor, and
+    <a href="https://github.com/YosefLab/scVI">scVI</a> from Nir Yosef's lab.
+  </p>
+</main>
